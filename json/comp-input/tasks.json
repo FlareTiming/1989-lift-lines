@@ -7,25 +7,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -58,7 +66,7 @@
               "-32.89700000 deg",
               "148.26380000 deg"
             ],
-            "altitude": "340.00000000 m"
+            "altitude": "340.000 m"
           }
         },
         "prolog": [
@@ -99,25 +107,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -129,7 +145,7 @@
               "-34.41250000 deg",
               "146.85430000 deg"
             ],
-            "altitude": "198.00000000 m"
+            "altitude": "198.000 m"
           }
         },
         "race": [
@@ -190,31 +206,41 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -257,7 +283,7 @@
               "-32.89700000 deg",
               "148.26380000 deg"
             ],
-            "altitude": "340.00000000 m"
+            "altitude": "340.000 m"
           }
         },
         "prolog": [
@@ -298,25 +324,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -349,7 +383,7 @@
               "-32.89700000 deg",
               "148.26380000 deg"
             ],
-            "altitude": "340.00000000 m"
+            "altitude": "340.000 m"
           }
         },
         "prolog": [
@@ -390,25 +424,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -420,7 +462,7 @@
               "-34.41250000 deg",
               "146.85430000 deg"
             ],
-            "altitude": "198.00000000 m"
+            "altitude": "198.000 m"
           }
         },
         "race": [
@@ -481,31 +523,41 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -548,7 +600,7 @@
               "-32.89700000 deg",
               "148.26380000 deg"
             ],
-            "altitude": "340.00000000 m"
+            "altitude": "340.000 m"
           }
         },
         "prolog": [
@@ -589,25 +641,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -679,25 +739,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -768,31 +836,41 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -874,25 +952,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -925,7 +1011,7 @@
               "-32.89700000 deg",
               "148.26380000 deg"
             ],
-            "altitude": "340.00000000 m"
+            "altitude": "340.000 m"
           }
         },
         "prolog": [
@@ -966,25 +1052,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -996,7 +1090,7 @@
               "-34.41250000 deg",
               "146.85430000 deg"
             ],
-            "altitude": "198.00000000 m"
+            "altitude": "198.000 m"
           }
         },
         "race": [
@@ -1057,31 +1151,41 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -1124,7 +1228,7 @@
               "-32.89700000 deg",
               "148.26380000 deg"
             ],
-            "altitude": "340.00000000 m"
+            "altitude": "340.000 m"
           }
         },
         "prolog": [
@@ -1165,25 +1269,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -1216,7 +1328,7 @@
               "-32.89700000 deg",
               "148.26380000 deg"
             ],
-            "altitude": "340.00000000 m"
+            "altitude": "340.000 m"
           }
         },
         "prolog": [
@@ -1257,25 +1369,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -1287,7 +1407,7 @@
               "-34.41250000 deg",
               "146.85430000 deg"
             ],
-            "altitude": "198.00000000 m"
+            "altitude": "198.000 m"
           }
         },
         "race": [
@@ -1348,31 +1468,41 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -1415,7 +1545,7 @@
               "-32.89700000 deg",
               "148.26380000 deg"
             ],
-            "altitude": "340.00000000 m"
+            "altitude": "340.000 m"
           }
         },
         "prolog": [
@@ -1456,25 +1586,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -1546,25 +1684,33 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {
@@ -1635,31 +1781,41 @@
           "radius": "400.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
-          "lng": 147.91973
+          "lng": 147.91973,
+          "give": "399.8 m",
+          "alt": "222.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
-          "lng": 148.2638
+          "lng": 148.2638,
+          "give": "400.2 m",
+          "alt": "340.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
-          "lng": 147.9857
+          "lng": 147.9857,
+          "give": "400.2 m",
+          "alt": "250.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
-          "lng": 146.8543
+          "lng": 146.8543,
+          "give": "400.2 m",
+          "alt": "198.000 m"
         }
       ],
       "raceKind": {

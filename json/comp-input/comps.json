@@ -1,5 +1,6 @@
 {
   "civilId": "0",
+  "earthMath": "Pythagorus",
   "discipline": "pg",
   "location": "Kössen Austria",
   "to": "1989-09-12",
@@ -7,6 +8,15 @@
   "from": "1989-09-01",
   "utcOffset": {
     "timeZoneMinutes": 0
+  },
+  "earth": {
+    "flat": {
+      "projection": "UTM"
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.0005
   },
   "scoreBack": "300.000 s"
 }
