@@ -1,6 +1,6 @@
 {
   "civilId": "0",
-  "earthMath": "Pythagorus",
+  "earthMath": "Vincenty",
   "discipline": "pg",
   "location": "Kössen Austria",
   "to": "1989-09-12",
@@ -10,13 +10,14 @@
     "timeZoneMinutes": 0
   },
   "earth": {
-    "flat": {
-      "projection": "UTM"
+    "ellipsoid": {
+      "equatorialR": "6378137.0 m",
+      "recipF": 298.257223563
     }
   },
   "give": {
-    "giveDistance": null,
-    "giveFraction": 0.0005
+    "giveDistance": "5.0 m",
+    "giveFraction": 0.0001
   },
   "scoreBack": "300.000 s"
 }

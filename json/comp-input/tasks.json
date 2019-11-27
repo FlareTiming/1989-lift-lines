@@ -4,35 +4,39 @@
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -59,14 +63,12 @@
           }
         },
         "race-ess": {
-          "cut-cylinder": {
-            "time-bonus": "0.450 s / m",
+          "cylinder": {
             "radius": "400.0 m",
             "center": [
               "-32.89700000 deg",
               "148.26380000 deg"
-            ],
-            "altitude": "340.000 m"
+            ]
           }
         },
         "prolog": [
@@ -101,55 +103,61 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "AATB ESS is Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
       "raceKind": {
         "race-ess-is-goal": {
-          "cut-semi-cylinder": {
-            "time-bonus": "0.450 s / m",
+          "semicircle": {
             "radius": "400.0 m",
             "center": [
               "-34.41250000 deg",
               "146.85430000 deg"
-            ],
-            "altitude": "198.000 m"
+            ]
           }
         },
         "race": [
@@ -204,50 +212,59 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "AATB Epilogue",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -284,14 +301,12 @@
           }
         },
         "race-ess": {
-          "cut-cylinder": {
-            "time-bonus": "0.450 s / m",
+          "cylinder": {
             "radius": "400.0 m",
             "center": [
               "-32.89700000 deg",
               "148.26380000 deg"
-            ],
-            "altitude": "340.000 m"
+            ]
           }
         },
         "prolog": [
@@ -326,42 +341,50 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "CESS ESS is not Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -388,14 +411,12 @@
           }
         },
         "race-ess": {
-          "cut-cone": {
-            "incline": "15.945 deg",
+          "cylinder": {
             "radius": "400.0 m",
             "center": [
               "-32.89700000 deg",
               "148.26380000 deg"
-            ],
-            "altitude": "340.000 m"
+            ]
           }
         },
         "prolog": [
@@ -430,55 +451,61 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "CESS ESS is Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
       "raceKind": {
         "race-ess-is-goal": {
-          "cut-semi-cone": {
-            "incline": "15.945 deg",
+          "semicircle": {
             "radius": "400.0 m",
             "center": [
               "-34.41250000 deg",
               "146.85430000 deg"
-            ],
-            "altitude": "198.000 m"
+            ]
           }
         },
         "race": [
@@ -533,50 +560,59 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "CESS Epilogue",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -613,14 +649,12 @@
           }
         },
         "race-ess": {
-          "cut-cone": {
-            "incline": "15.945 deg",
+          "cylinder": {
             "radius": "400.0 m",
             "center": [
               "-32.89700000 deg",
               "148.26380000 deg"
-            ],
-            "altitude": "340.000 m"
+            ]
           }
         },
         "prolog": [
@@ -655,42 +689,50 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "No decelerator, ESS is not Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -757,48 +799,56 @@
         "close": "2018-07-16T20:00:00Z",
         "open": "2018-07-16T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "No decelerator, ESS is Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
       "raceKind": {
         "race-ess-is-goal": {
-          "circle": {
+          "semicircle": {
             "radius": "400.0 m",
             "center": [
               "-34.41250000 deg",
@@ -858,50 +908,59 @@
         "close": "2018-07-16T20:00:00Z",
         "open": "2018-07-16T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "No decelerator, Epilogue",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -978,42 +1037,50 @@
         "close": "2018-07-16T20:00:00Z",
         "open": "2018-07-16T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "AATB, Circle ESS is not Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -1040,14 +1107,12 @@
           }
         },
         "race-ess": {
-          "cut-cylinder": {
-            "time-bonus": "0.450 s / m",
+          "cylinder": {
             "radius": "400.0 m",
             "center": [
               "-32.89700000 deg",
               "148.26380000 deg"
-            ],
-            "altitude": "340.000 m"
+            ]
           }
         },
         "prolog": [
@@ -1082,55 +1147,61 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "AATB, Circle ESS is Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
       "raceKind": {
         "race-ess-is-goal": {
-          "cut-cylinder": {
-            "time-bonus": "0.450 s / m",
+          "circle": {
             "radius": "400.0 m",
             "center": [
               "-34.41250000 deg",
               "146.85430000 deg"
-            ],
-            "altitude": "198.000 m"
+            ]
           }
         },
         "race": [
@@ -1185,50 +1256,59 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "AATB, Circle Goal with Epilogue",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -1265,14 +1345,12 @@
           }
         },
         "race-ess": {
-          "cut-cylinder": {
-            "time-bonus": "0.450 s / m",
+          "cylinder": {
             "radius": "400.0 m",
             "center": [
               "-32.89700000 deg",
               "148.26380000 deg"
-            ],
-            "altitude": "340.000 m"
+            ]
           }
         },
         "prolog": [
@@ -1307,42 +1385,50 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "CESS, Circle ESS is not Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -1369,14 +1455,12 @@
           }
         },
         "race-ess": {
-          "cut-cone": {
-            "incline": "15.945 deg",
+          "cylinder": {
             "radius": "400.0 m",
             "center": [
               "-32.89700000 deg",
               "148.26380000 deg"
-            ],
-            "altitude": "340.000 m"
+            ]
           }
         },
         "prolog": [
@@ -1411,55 +1495,61 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "CESS, Circle ESS is Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
       "raceKind": {
         "race-ess-is-goal": {
-          "cut-cone": {
-            "incline": "15.945 deg",
+          "circle": {
             "radius": "400.0 m",
             "center": [
               "-34.41250000 deg",
               "146.85430000 deg"
-            ],
-            "altitude": "198.000 m"
+            ]
           }
         },
         "race": [
@@ -1514,50 +1604,59 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "CESS, Circle Goal with Epilogue",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -1594,14 +1693,12 @@
           }
         },
         "race-ess": {
-          "cut-cone": {
-            "incline": "15.945 deg",
+          "cylinder": {
             "radius": "400.0 m",
             "center": [
               "-32.89700000 deg",
               "148.26380000 deg"
-            ],
-            "altitude": "340.000 m"
+            ]
           }
         },
         "prolog": [
@@ -1636,42 +1733,50 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "No Decelerator, ESS is not Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -1738,42 +1843,50 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "No decelerator, ESS is Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -1839,50 +1952,59 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "No decelerator, Epilogue",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.4916,
           "zoneName": "4WAYS",
           "lng": 147.91973,
-          "give": "399.8 m",
           "alt": "222.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -32.897,
           "zoneName": "ALEC",
           "lng": 148.2638,
-          "give": "400.2 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -33.1903,
           "zoneName": "AFARM",
           "lng": 147.9857,
-          "give": "400.2 m",
           "alt": "250.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": -34.4125,
           "zoneName": "ARDLE",
           "lng": 146.8543,
-          "give": "400.2 m",
           "alt": "198.000 m"
         }
       ],
@@ -1959,6 +2081,10 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   }
 ]

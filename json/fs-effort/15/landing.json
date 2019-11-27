@@ -1,0 +1,18 @@
+{
+  "chunking": {
+    "endChunk": [
+      82,
+      "8.2 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 0
+  },
+  "bestDistance": null,
+  "difficulty": [],
+  "lookahead": 30,
+  "minDistance": "0.000 km",
+  "landout": 0
+}
